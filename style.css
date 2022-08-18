@@ -28,3 +28,9 @@
     padding: 20px;
 }
 
+.grow-1 {
+    flex-grow: 1;
+}
+.fa-location-dot {
+    flex-grow: 3;
+}
