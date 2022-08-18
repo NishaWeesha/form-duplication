@@ -19,3 +19,12 @@
     color: white;
     align-self: center;
 }
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 240px;
+    padding: 20px;
+}
+
