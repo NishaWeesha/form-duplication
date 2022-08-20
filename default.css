@@ -2,3 +2,8 @@ body {
     max-width: 600px;
     font-family: sans-serif;
 }
+
+input {
+    height: 30px;
+    padding: 20px;
+}
