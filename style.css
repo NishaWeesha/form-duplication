@@ -20,17 +20,6 @@
     align-self: center;
 }
 
-.icons {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 240px;
-    padding: 20px;
-}
-
 .grow-1 {
     flex-grow: 1;
-}
-.fa-location-dot {
-    flex-grow: 3;
 }
