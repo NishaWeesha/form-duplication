@@ -7,3 +7,16 @@ input {
     height: 30px;
     padding: 20px;
 }
+.single {
+    margin: 10px 0px 30px;
+}
+.shade {
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: lightgray;
+    outline: none;
+    width: 230px;
+    height: 10px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
