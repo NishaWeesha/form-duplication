@@ -19,3 +19,19 @@
     color: white;
     align-self: center;
 }
+
+.inside {
+    margin: 20px;
+    max-width: 100%;
+}
+.inside i {
+    padding: 10px;
+    justify-self: center;
+    align-self: center;
+}
+.shade {
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
