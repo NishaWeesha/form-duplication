@@ -37,4 +37,7 @@
     border-radius: 6px;
     border: 1px solid black;
 }
-\
+.number {
+    width: 40px;
+    border-radius: 10px;
+}
