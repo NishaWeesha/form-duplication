@@ -41,3 +41,13 @@
     width: 40px;
     border-radius: 10px;
 }
+.phtype {
+    margin-right: -25px;
+    margin-left: 3px;
+}
+.state {
+    width: 125px;
+}
+.zip {
+    width: 85px;
+}
