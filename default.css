@@ -17,3 +17,6 @@ input {
     display: flex;
     flex-direction: row;
 }
+.move {
+    margin-left: 38px;
+}
