@@ -19,15 +19,21 @@
     color: white;
     align-self: center;
 }
-
-.inside {
-    margin: 20px 5px;
-    max-width: 100%;
-    display: flex;
-    flex-direction: row;
-}
 .inside i {
     padding: 10px 20px 10px 10px;
     justify-self: center;
     align-self: center;
+    max-width: 5px;
+}
+.shade {
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: lightgray;
+    outline: none;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.regular {
+    border-radius: 6px;
+    border: 1px solid black;
 }
